@@ -1,0 +1,2 @@
+@Library('myDeliveryPipeline')_
+myDeliveryPipeline()
