@@ -1,0 +1,28 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "testing node js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilforms/Nodejssample.git"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "sample",
+    "app"
+  ],
+  "author": "Emad",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adilforms/Nodejssample/issues"
+  },
+  "homepage": "https://github.com/adilforms/Nodejssample#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
