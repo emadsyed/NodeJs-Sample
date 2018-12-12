@@ -1,2 +1,2 @@
-@Library('myDeliveryPipeline')_
-myDeliveryPipeline()
+@Library('NodeJsTemplate')_
+NodeJsTemplate()
